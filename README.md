@@ -1,4 +1,4 @@
-### Sobre mim 👋
+### About me 👋
 
 Welcome!, my name is francisco josé da silva mendes, I'm majoring in science and technology, always trying to improve myself.
 
