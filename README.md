@@ -1,6 +1,6 @@
 ### About me 👋
 
-Welcome!, my name is francisco josé da silva mendes, I'm majoring in science and technology, always trying to improve myself.
+Welcome!, my name is francisco josé da silva mendes, I'm majoring in science and technology, always improving myself.
 
 - I'm learning POO and Git.
 
