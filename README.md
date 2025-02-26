@@ -2,7 +2,7 @@
 
 Welcome!, my name is francisco josé da silva mendes, I'm majoring in science and technology, always improving myself. Recently member from include enginner. 
 
-- I'm learning POO and Git.
+- I'm learning Java and Spring boot.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franciscojs01&theme=dark&show_icons=true)
 
@@ -13,7 +13,7 @@ Welcome!, my name is francisco josé da silva mendes, I'm majoring in science an
 
 - Learning
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | UML | POO | C++ | Java |
+| Java |
 
 ### Tools 🛠️
 
