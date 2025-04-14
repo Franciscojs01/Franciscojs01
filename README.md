@@ -11,9 +11,9 @@ Welcome!, my name is francisco josé da silva mendes, I'm majoring in science an
 
 ### Programming languages 🌐
 
-- Learning
+- Learning And Using
 
-| Java |
+| Java | Spring boot with postgresql
 
 ### Tools 🛠️
 
