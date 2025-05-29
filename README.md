@@ -1,6 +1,6 @@
 ### About me 👋
 
-Welcome!, my name is francisco josé da silva mendes, I'm majoring in science and technology, always improving myself. Recently member from include enginner. 
+Welcome! My name is Francisco José da Silva Mendes. I'm majoring in science and technology, always striving to improve myself.
 
 - I'm learning Java and Spring boot. To do APIrestful
 
