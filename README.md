@@ -2,7 +2,7 @@
 
 Welcome! My name is Francisco José da Silva Mendes. I'm majoring in science and technology, always striving to improve myself.
 
-- I'm learning Java and Spring boot. To do APIrestful
+- I'm learning Java and Spring boot to improve software solutions.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franciscojs01&theme=dark&show_icons=true)
 
