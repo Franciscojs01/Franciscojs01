@@ -1,31 +1,48 @@
-### About me 👋
+### 👋 About Me
 
-Welcome! My name is Francisco José da Silva Mendes. I'm majoring in science and technology, always striving to improve myself.
+Welcome! My name is **Francisco José da Silva Mendes**, a student of **Science and Technology** and a Back-end Developer from Engineer Include, where I work with landing pages and project analytics, constantly striving to improve myself and my skills. 
 
-- I'm learning Java and Spring boot to improve software solutions.
+- 🌱 Currently learning **Java** and **Spring Boot** to build robust backend solutions.
+- ❤️ Focus on back-end development.
+- 🚀 Passionate about building real-world applications and solving problems with technology.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franciscojs01&theme=dark&show_icons=true)
 
+---
 
+### 🌐 Programming Languages
 
+- 💻 Learning and Using:
 
-### Programming languages 🌐
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+</p>
 
-- Learning And Using
+---
 
-| Java | Spring boot with postgresql
+### 🛠️ Tools
 
-### Tools 🛠️
+<p>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+  </a>
+</p>
 
-- using
+---
 
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | Windows Terminal | Intellij
+### 📫 Connect with Me
 
+<a href="https://www.linkedin.com/in/francisco-josé-b5a540298/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
 
-### Accounts 📫
-
-You can find me on these social network.
-
-<a href="https://www.linkedin.com/in/francisco-josé-b5a540298/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Franciscojs01" height="50" width="50" /></a>
-
+---
 
