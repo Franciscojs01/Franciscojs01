@@ -2,7 +2,7 @@
 
 Welcome! My name is **Francisco José da Silva Mendes**, a student of **Science and Technology** and a Back-end Developer from Engineer Include, where I work with landing pages and project analytics, constantly striving to improve myself and my skills. 
 
-- 🌱 Currently learning **Java** and **Spring Boot** to build robust backend solutions.
+- 🌱 Currently using **Java** and **Spring Boot** to build robust backend solutions.
 - ❤️ Focus on back-end development.
 - 🚀 Passionate about building real-world applications and solving problems with technology.
 
