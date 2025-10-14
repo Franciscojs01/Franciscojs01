@@ -10,9 +10,9 @@ Welcome! My name is **Francisco José da Silva Mendes**, a student of **Science 
 
 ---
 
-### 🌐 Programming Languages
+### 🌐 Skills
 
-- 💻 Learning and Using:
+- 💻 Hard Skills
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -22,21 +22,6 @@ Welcome! My name is **Francisco José da Silva Mendes**, a student of **Science 
 
 ---
 
-### 🛠️ Tools
-
-<p>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
-  </a>
-</p>
-
----
 
 ### 📫 Connect with Me
 
