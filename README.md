@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Francisco José da Silva Mendes
 
 🎓 Graduando em Ciências e Tecnologia na Universidade Federal do Rio Grande do Norte (UFRN)
-💻 Desenvolvedor Back-End com foco em construir soluções robustas, seguras e escaláveis usando Java (Spring Boot) e Python (Django).
+💻 Desenvolvedor Back-End com foco em construir soluções robustas, seguras e escaláveis usando Java (Spring Boot).
 
 💡 “A tecnologia não é apenas sobre código, mas sobre criar impacto real.”
 
