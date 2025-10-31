@@ -1,40 +1,57 @@
-### 👋 About Me
+Hello, I’m Francisco José da Silva Mendes
 
-Welcome! My name is **Francisco José da Silva Mendes**, a student of **Science and Technology** and a Back-end Developer from Engineer Include, where I work with landing pages. Constantly striving to improve myself and my skills. 
+🎓 Graduando em Ciências e Tecnologia na Universidade Federal do Rio Grande do Norte (UFRN)
+💻 Desenvolvedor Back-End com foco em construir soluções robustas, seguras e escaláveis usando Java (Spring Boot) e Python (Django).
 
-- 🌱 Currently using **Java** and **Spring Boot** to build robust backend solutions.
-- ❤️ Focus on back-end development.
-- 🚀 Passionate about building real-world applications and solving problems with technology.
+💡 “A tecnologia não é apenas sobre código, mas sobre criar impacto real.”
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=Franciscojs01&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0000&cache_seconds=2300" alt="ilustração do status do github">
+🚀 About Me / Sobre Mim
 
----
+Sou apaixonado por desenvolvimento Back-End, design de APIs RESTful e arquitetura de software.
+Tenho experiência no desenvolvimento de sistemas em camadas, CRUDs completos e integração com bancos de dados PostgreSQL.
 
-### 🌐 Skills
+Também já atuei como Analista de Projetos, auxiliando na coleta de requisitos, levantamento técnico e análise de soluções para diferentes demandas.
 
-- 💻 Hard Skills
+Atualmente, busco aprimorar minhas habilidades em boas práticas de arquitetura, testes automatizados e documentação de APIs.
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-</p>
-  - 🤝 Soft Skills
-  <p align="center">
-  <img src="https://img.shields.io/badge/Proatividade-FF5733?style=for-the-badge&logo=react&logoColor=white" alt="Badge de Proatividade" />
-  <img src="https://img.shields.io/badge/Comunicação-33FF57?style=for-the-badge&logo=linkedin&logoColor=white" alt="Badge de Comunicação" />
-  <img src="https://img.shields.io/badge/Liderança-3357FF?style=for-the-badge&logo=github&logoColor=white" alt="Badge de Liderança" />    
-  <img src="https://img.shields.io/badge/Trabalho_em_Equipe-FF33A1?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Badge de Trabalho em Equipe" />
-</p>
-  
----
+🧠 Tech Stack / Tecnologias
+💻 Backend
 
+Languages / Linguagens: Java, JavaScript, Python
 
-### 📫 Connect with Me
+Frameworks: Spring Boot, Django
 
-<a href="https://www.linkedin.com/in/francisco-josé-b5a540298/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-</a>
+APIs: RESTful APIs
 
----
+Database: PostgreSQL
+
+Architectures / Arquiteturas: MVC, Camadas (Layered Architecture)
+
+⚙️ Tools & Environment / Ferramentas e Ambiente
+
+Git & GitHub
+
+Postman
+
+Docker (básico)
+
+IntelliJ IDEA / VSCode
+
+📈 Agile
+
+Scrum (experiência com equipes ágeis e entregas iterativas)
+
+💡 Soft Skills
+<p align="center"> <img src="https://img.shields.io/badge/Proatividade-FF5733?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Comunicação-33FF57?style=for-the-badge&logo=linkedin&logoColor=white" /> <img src="https://img.shields.io/badge/Liderança-3357FF?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Trabalho_em_Equipe-FF33A1?style=for-the-badge&logo=microsoftteams&logoColor=white" /> </p>
+🌍 Languages / Idiomas
+
+🇧🇷 Português: Nativo
+
+🇺🇸 Inglês: B2 — Applied English Course
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Franciscojs01&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0000&cache_seconds=2300" alt="GitHub stats" /> </p>
+🤝 Connect with Me / Conecte-se Comigo
+<p align="center"> <a href="https://www.linkedin.com/in/francisco-josé-b5a540298/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /> </a> </p>
+
 
