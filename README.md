@@ -1,11 +1,11 @@
-Hello, I’m Francisco José da Silva Mendes
+# 👋 Hello, I’m Francisco José da Silva Mendes
 
 🎓 Graduando em Ciências e Tecnologia na Universidade Federal do Rio Grande do Norte (UFRN)
 💻 Desenvolvedor Back-End com foco em construir soluções robustas, seguras e escaláveis usando Java (Spring Boot) e Python (Django).
 
 💡 “A tecnologia não é apenas sobre código, mas sobre criar impacto real.”
 
-🚀 About Me / Sobre Mim
+## 🚀 About Me / Sobre Mim
 
 Sou apaixonado por desenvolvimento Back-End, design de APIs RESTful e arquitetura de software.
 Tenho experiência no desenvolvimento de sistemas em camadas, CRUDs completos e integração com bancos de dados PostgreSQL.
@@ -14,8 +14,8 @@ Também já atuei como Analista de Projetos, auxiliando na coleta de requisitos,
 
 Atualmente, busco aprimorar minhas habilidades em boas práticas de arquitetura, testes automatizados e documentação de APIs.
 
-🧠 Tech Stack / Tecnologias
-💻 Backend
+## 🧠 Tech Stack / Tecnologias
+### 💻 Backend
 
 Languages / Linguagens: Java, JavaScript, Python
 
@@ -27,7 +27,7 @@ Database: PostgreSQL
 
 Architectures / Arquiteturas: MVC, Camadas (Layered Architecture)
 
-⚙️ Tools & Environment / Ferramentas e Ambiente
+### ⚙️ Tools & Environment / Ferramentas e Ambiente
 
 Git & GitHub
 
@@ -37,21 +37,22 @@ Docker (básico)
 
 IntelliJ IDEA / VSCode
 
-📈 Agile
+### 📈 Agile
 
 Scrum (experiência com equipes ágeis e entregas iterativas)
 
-💡 Soft Skills
+# 💡 Soft Skills
 <p align="center"> <img src="https://img.shields.io/badge/Proatividade-FF5733?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Comunicação-33FF57?style=for-the-badge&logo=linkedin&logoColor=white" /> <img src="https://img.shields.io/badge/Liderança-3357FF?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Trabalho_em_Equipe-FF33A1?style=for-the-badge&logo=microsoftteams&logoColor=white" /> </p>
-🌍 Languages / Idiomas
+# 🌍 Languages / Idiomas
 
 🇧🇷 Português: Nativo
 
 🇺🇸 Inglês: B2 — Applied English Course
 
-📊 GitHub Stats
+# 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Franciscojs01&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0000&cache_seconds=2300" alt="GitHub stats" /> </p>
-🤝 Connect with Me / Conecte-se Comigo
+
+# 🤝 Connect with Me / Conecte-se Comigo
 <p align="center"> <a href="https://www.linkedin.com/in/francisco-josé-b5a540298/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /> </a> </p>
 
 
