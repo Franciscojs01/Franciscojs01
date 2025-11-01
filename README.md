@@ -33,8 +33,6 @@ Git & GitHub
 
 Postman
 
-Docker (básico)
-
 IntelliJ IDEA / VSCode
 
 ### 📈 Agile
