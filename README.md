@@ -23,7 +23,7 @@ Frameworks: Spring Boot, Django
 
 APIs: RESTful APIs
 
-Database: PostgreSQL, Sqlite3
+Database: PostgreSQL, SQLite3
 
 Architectures / Arquiteturas: MVC, Camadas (Layered Architecture)
 
