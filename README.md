@@ -45,7 +45,7 @@ Scrum (experiência com equipes ágeis e entregas iterativas)
 
 🇧🇷 Português: Nativo
 
-🇺🇸 Inglês: B2 — Applied English Course
+🇺🇸 Inglês: C1 — Applied English Course
 
 # 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Franciscojs01&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0000&cache_seconds=2300" alt="GitHub stats" /> </p>
