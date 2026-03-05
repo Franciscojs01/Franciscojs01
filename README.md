@@ -27,7 +27,7 @@ I am a Software Developer specialized in **Backend Engineering** and **System Ar
 * **Testing:** JUnit 5, Mockito, Integration Testing (Spring Boot Test).
 
 ### ⚙️ Infrastructure & Databases
-* **Databases:** **PostgreSQL** (Advanced), MongoDB, SQLite3, H2 Database.
+* **Databases:** PostgreSQL,  MongoDB, SQLite3, H2 Database.
 * **Tools:** Git & GitHub, Docker, Postman, Swagger/OpenAPI.
 * **IDEs:** IntelliJ IDEA (Primary), VSCode.
 
