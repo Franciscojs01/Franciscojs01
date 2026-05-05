@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Francisco José da Silva Mendes
 
 🎓 **Computer Engineering Student** at the Federal University of Rio Grande do Norte (UFRN)
-💻 **computer engineer| Backend Specialist** focused on building high-performance, scalable solutions using **Java (Spring Boot 3)**.
+💻 **Software Engineer @ HUOL-UFRN** | Fullstack Specialist focused on **PHP (Laravel)** & **Java (Spring Boot)**.
 
 💡 *“Technology is about transforming complex business requirements into elegant, high-impact technical solutions.”*
 
@@ -9,43 +9,43 @@
 
 ## 🚀 About Me
 
-I am a Software Developer specialized in **Backend Engineering** and **System Architecture**. I have a proven track record of designing and implementing independent web systems, from advanced database modeling to final deployment.
+I am a **Software Engineer** at **HUOL-UFRN**, specializing in building scalable, high-performance web applications. Currently, I work as a **Fullstack Developer** leveraging the power of **PHP/Laravel**, while maintaining a deep expertise in **Java/Spring Boot** for complex backend architectures.
 
-* **Java Specialist:** Focused on **Spring Boot 3**, **Spring Data JPA**, and **Spring Security**, ensuring modular and maintainable code through **Layered Architecture** and **Clean Code** principles.
-* **Data Integrity:** Experienced in **PostgreSQL**, specializing in normalization, transaction management, and query optimization to ensure data consistency and performance.
-* **Quality First:** Committed to the testing pyramid, implementing **Unit, Integration, and Repository tests** using **JUnit 5 and Mockito** to deliver bug-free, production-ready software.
-* **Strategic Vision:** My background as a **Project Analyst** allows me to bridge the gap between business needs and technical implementation, generating insights that optimize the development lifecycle.
+* **Software Engineer at HUOL:** Responsible for developing and maintaining mission-critical systems, ensuring performance, security, and a seamless user experience using **Laravel** and modern frontend practices.
+* **Fullstack Versatility:** Expert in **PHP 8+** and **Laravel 10**, building everything from robust Eloquent-based APIs to dynamic blade interfaces, while keeping the **Java/Spring** ecosystem as a core strength for enterprise solutions.
+* **Architecture & Clean Code:** Committed to **SOLID** principles and **Design Patterns**. I believe that maintainable code is the foundation of any long-lasting software product.
+* **Data & Quality:** Skilled in complex database modeling with **PostgreSQL**, and dedicated to the testing pyramid (Unit & Integration) to ensure production stability.
 
 ---
 
 ## 🧠 Tech Stack
 
 ### 💻 Backend & Core
-* **Languages:** Java 17+, JavaScript (Node.js), Python.
-* **Frameworks:** **Spring Boot 3**, Spring Data JPA, Hibernate, Express.js, Django.
-* **Architecture:** MVC, Layered Architecture, DTO Pattern, RESTful Design.
-* **Testing:** JUnit 5, Mockito, Integration Testing (Spring Boot Test).
+* **Languages:** PHP 8+, Java 17+, JavaScript (Node.js), Python.
+* **Frameworks:** **Laravel 10**, **Spring Boot 3**, Express.js, Django.
+* **Architecture:** MVC, Layered Architecture, DTO Pattern, RESTful Design, Service Layers.
+* **Testing:** PHPUnit, JUnit 5, Mockito.
 
 ### ⚙️ Infrastructure & Databases
-* **Databases:** PostgreSQL,  MongoDB, SQLite3, H2 Database.
-* **Tools:** Git & GitHub, Docker, Postman, Swagger/OpenAPI.
-* **IDEs:** IntelliJ IDEA (Primary), VSCode.
+* **Databases:** PostgreSQL, MySQL, MongoDB, SQLite3.
+* **Tools:** Docker, Git & GitHub, Postman, Swagger/OpenAPI.
+* **Environment:** Linux (Ubuntu/Debian), IntelliJ IDEA, VSCode.
 
 ### 📈 Agile & Collaboration
-* **Methodologies:** Scrum & Kanban (Experience in high-paced agile squads).
-* **Soft Skills:** Proactive Problem Solving, Technical Leadership, and Cross-functional Communication.
+* **Methodologies:** Scrum & Kanban (Experience in hospital-tech and high-paced squads).
+* **Soft Skills:** Technical Leadership, Cross-functional Communication, and Analytical Problem Solving.
 
 ---
 
 ## 🌍 Languages
 * 🇧🇷 **Portuguese:** Native
-* 🇺🇸 **English:** B2(Advanced) — Applied English Course
+* 🇺🇸 **English:** B2 (Advanced) — Applied English Course
 
 ---
 
 ## 💡 Soft Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Proactivity-FF5733?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fullstack_Mindset-FF5733?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Communication-33FF57?style=for-the-badge&logo=linkedin&logoColor=white" />
   <img src="https://img.shields.io/badge/Leadership-3357FF?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Teamwork-FF33A1?style=for-the-badge&logo=microsoftteams&logoColor=white" />
