@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Francisco José da Silva Mendes
 
 🎓 **Computer Engineering Student** at the Federal University of Rio Grande do Norte (UFRN)
-💻 **Software Engineer @ HUOL-UFRN** | Fullstack Specialist focused on **PHP (Laravel)** & **Java (Spring Boot)**.
+💻 **Software Engineer @ HUOL-UFRN** | Fullstack on **PHP (Laravel)** & **Java (Spring Boot)**.
 
 💡 *“Technology is about transforming complex business requirements into elegant, high-impact technical solutions.”*
 
@@ -12,7 +12,7 @@
 I am a **Software Engineer** at **HUOL-UFRN**, specializing in building scalable, high-performance web applications. Currently, I work as a **Fullstack Developer** leveraging the power of **PHP/Laravel**, while maintaining a deep expertise in **Java/Spring Boot** for complex backend architectures.
 
 * **Software Engineer at HUOL:** Responsible for developing and maintaining mission-critical systems, ensuring performance, security, and a seamless user experience using **Laravel** and modern frontend practices.
-* **Fullstack Versatility:** Expert in **PHP 8+** and **Laravel 10**, building everything from robust Eloquent-based APIs to dynamic blade interfaces, while keeping the **Java/Spring** ecosystem as a core strength for enterprise solutions.
+* **Fullstack Versatility:** Working in **PHP 8+** and **Laravel 10**, building everything from robust Eloquent-based APIs to dynamic blade interfaces, while keeping the **Java/Spring** ecosystem as a core strength for enterprise solutions.
 * **Architecture & Clean Code:** Committed to **SOLID** principles and **Design Patterns**. I believe that maintainable code is the foundation of any long-lasting software product.
 * **Data & Quality:** Skilled in complex database modeling with **PostgreSQL**, and dedicated to the testing pyramid (Unit & Integration) to ensure production stability.
 
