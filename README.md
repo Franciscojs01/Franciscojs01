@@ -20,9 +20,10 @@ I am a **Software Engineer** at **HUOL-UFRN**, specializing in building scalable
 
 ## 🧠 Tech Stack
 
-### 💻 Backend & Core
-* **Languages:** PHP 8+, Java 17+, JavaScript (Node.js), Python.
+### 💻 Core
+* **Languages:** PHP 8+, Java 17+, JavaScript, Python.
 * **Frameworks:** **Laravel 10**, **Spring Boot 3**, Express.js, Django.
+* **Librarys:** **React.**
 * **Architecture:** MVC, Layered Architecture, DTO Pattern, RESTful Design, Service Layers.
 * **Testing:** PHPUnit, JUnit 5, Mockito.
 
