@@ -23,7 +23,7 @@ I am a **Software Engineer** at **HUOL-UFRN**, specializing in building scalable
 ### 💻 Core
 * **Languages:** PHP 8+, Java 17+, JavaScript, Python.
 * **Frameworks:** **Laravel 10**, **Spring Boot 3**, Express.js, Django.
-* **Librarys:** **React.**
+* **Libraries:** **React.**
 * **Architecture:** MVC, SPA, Layered Architecture, DTO Pattern, RESTful Design, Service Layers.
 * **Testing:** PHPUnit, JUnit 5, Mockito.
 
@@ -45,6 +45,7 @@ I am a **Software Engineer** at **HUOL-UFRN**, specializing in building scalable
 ---
 
 ## 💡 Soft Skills
+
 <p align="center">
   <img src="https://img.shields.io/badge/Fullstack_Mindset-FF5733?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Communication-33FF57?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -55,15 +56,17 @@ I am a **Software Engineer** at **HUOL-UFRN**, specializing in building scalable
 ---
 
 ## 📊 GitHub Stats
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Franciscojs01&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0000&cache_seconds=2300" alt="GitHub stats" /> 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Franciscojs01&theme=dark&hide_border=false" alt="GitHub Stats" />
 </p>
 
 ---
 
 ## 🤝 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/francisco-josé-b5a540298/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
 </p>
