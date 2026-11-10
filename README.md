@@ -25,7 +25,7 @@ I am a **Software Engineer** at **HUOL-UFRN**, specializing in building scalable
 * **Frameworks:** **Laravel 10**, **Spring Boot 3**, Express.js, Django.
 * **Libraries:** **React.**
 * **Architecture:** MVC, SPA, Layered Architecture, DTO Pattern, RESTful Design, Service Layers.
-* **Testing:** PHPUnit, JUnit 5, Mockito.
+* **Testing:** PHPUnit, JUnit 5, Mockito, PEST.
 
 ### ⚙️ Infrastructure & Databases
 * **Databases:** PostgreSQL, MySQL, MongoDB, SQLite3.
